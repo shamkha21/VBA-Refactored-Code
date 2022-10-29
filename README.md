@@ -11,7 +11,7 @@ The Refactored Code ran faster than the original code.
 2017 Refactored 0.027343  
 ![Alt text](2017originalcode.png)
 2017 Original Code 0.2261718  
-![Alt text](2018originalcode.png)
+![Alt text](2018Originalcode.png)
 2018 Original Code 0.2578125 
 
 #### Stock Results  
