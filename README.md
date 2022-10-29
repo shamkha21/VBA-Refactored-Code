@@ -5,15 +5,15 @@ Steve, a client has multiple stocks that he would like to analyze. With the code
 ## Results  
 #### Code Run Times
 The Refactored Code ran faster than the original code.  
- ![Refactored Code 2018 Run Time](Refactored2018.png)
- 2018 Refactored 0.03125  
- ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Refactored Code 2018 Run Time](Refactored2018.png)
+2018 Refactored 0.03125  
+![Alt text](Refactored2017.png)
 2017 Refactored 0.027343  
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](2017originalcode.png)
 2017 Original Code 0.2261718  
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](2018originalcode.png)
 2018 Original Code 0.2578125 
-![Alt text]()
+
 #### Stock Results  
 The stocks preformed overall well in 2017 with all but one a increase in return. The only stock that had a negative return was "TERP". However in 2018 only two stocks "ENPH" and "RUN" had an increase in return while all others were at a loss. 
 
