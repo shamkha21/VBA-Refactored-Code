@@ -4,7 +4,8 @@
 Steve, a client has multiple stocks that he would like to analyze. With the code from the module conducted it would take a longer time and many steps to analyze. Our purpose is to refactor or edit the existing code so that Steve can efficently analyze stocks and that code should require less steps, and avoiding the nested loops. 
 ## Results  
 #### Code Run Times
-The Refactored Code ran faster than the original code.  
+The Refactored Code ran faster than the Original code. 
+
 ![Refactored Code 2018 Run Time](Refactored2018.png)
 2018 Refactored 0.03125  
 ![Alt text](Refactored2017.png)
